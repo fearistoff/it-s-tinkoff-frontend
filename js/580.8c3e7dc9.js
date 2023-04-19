@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkit_s_tinkoff_frontend"]=self["webpackChunkit_s_tinkoff_frontend"]||[]).push([[580],{580:function(n,e,t){t.r(e),t.d(e,{default:function(){return _}});var r=t(396);const f={class:"home"},o=(0,r._)("h1",null,"wow!",-1),i=[o];function s(n,e,t,o,s,u){return(0,r.wg)(),(0,r.iD)("div",f,i)}var u=(0,r.aZ)({name:"HomeView"}),a=t(89);const c=(0,a.Z)(u,[["render",s]]);var _=c}}]);
+//# sourceMappingURL=580.8c3e7dc9.js.map
